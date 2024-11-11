@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730905310 source:c:\users\user\desktop\the places of the mind\stack_queue\main.cpp
+	<iostream>
+	"stack.h"
+
+1731348669 c:\users\user\desktop\the places of the mind\stack_queue\stack.h
+	<iostream>
+	<stdexcept>
+
